@@ -1,6 +1,6 @@
 import React from 'react';
 import InstagramEmbed from 'react-instagram-embed';
-import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
+import {TwitterTweetEmbed} from 'react-twitter-embed';
 // import { Link } from 'react-router-dom'
 import './Matome.css';
 
