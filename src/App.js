@@ -9,14 +9,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <Router>
-      <div>
-        {/* <Header /> */}
-        <div className="main-body">
-            <Route path='/Matome' component={Matome}/>
-        </div>
-      </div>
-    </Router>
+    <Matome />
     <Footer />
     </div>
   );
