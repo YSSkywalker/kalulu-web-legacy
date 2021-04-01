@@ -1,6 +1,7 @@
 import React from 'react';
 import InstagramEmbed from 'react-instagram-embed';
 import {TwitterTweetEmbed} from 'react-twitter-embed';
+import { Helmet } from "react-helmet";
 // import { Link } from 'react-router-dom'
 import './Matome.css';
 
@@ -11,6 +12,19 @@ class Matome extends React.Component {
         const clientAccessToken = `${appID}|${clientToken}`
         return (
             <div>
+                <Helmet
+                  title={'コスプレイヤー暴露まとめ'}
+                  meta={[
+                    { name: 'twitter:card', content: 'summary' },
+                    { name: 'twitter:site', content: `@UshinohiProject` },
+                    { property: 'og:type', content: 'article' },
+                    { property: 'og:image', content: 'http://drive.google.com/uc?export=view&id=1mBX7h1u5S3lWW6yc2qgMaqKexDywzIYB' },
+                    { property: 'og:site_name', content: 'コスプレイヤー暴露まとめ' },
+                    { property: 'og:title', content: '自称美少女レイヤーの雪丸かるるがヤバいw 高額月収・彼氏画像も！' },
+                    { property: 'og:description', content: 'こんにちは！コスプレイヤー暴露まとめ案内人です！ 最近、よくTwitterやYouTubeで見かけることが増えてきた 雪丸かるる！！' },
+                    { property: 'og:url', content: `https://kalulu.fans/Matome` }
+                  ]}
+                />
                 <div className="article-title">
                     <h4>コスプレイヤー暴露まとめ</h4>
                 </div>
