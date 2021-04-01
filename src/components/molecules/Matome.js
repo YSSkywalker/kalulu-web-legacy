@@ -82,6 +82,9 @@ class Matome extends React.Component {
                             <p>もしかしたら「雪丸かるる」が本名なのかもしれません。</p>
                         </div>
                     </div>
+                    <a href="https://www.amazon.co.jp/hz/wishlist/ls/1WZSCAPPA8Z5W/ref=cm_go_nav_hz" target="_blank" rel="noreferrer">
+                        <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
+                    </a>
                     <div>
                         <div className="matome-sub-title-box">
                             <p className="matome-sub-title">居住地は？</p>
@@ -161,6 +164,9 @@ class Matome extends React.Component {
                             <p>雪丸かるると個人的に話せるのは非常に魅力的ですね。</p>
                         </div>
                     </div>
+                    <a href="https://www.amazon.co.jp/hz/wishlist/ls/1WZSCAPPA8Z5W/ref=cm_go_nav_hz" target="_blank" rel="noreferrer">
+                        <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
+                    </a>
                     <div>
                         <div className="matome-sub-title-box">
                             <p className="matome-sub-title">特技は？</p>
@@ -192,6 +198,14 @@ class Matome extends React.Component {
                             <p>調べる過程でいろんなことを知ることができて、</p>
                             <p>雪丸かるるのことがさらに好きになりました。</p>
                             <p>みなさんが知っていることがあればぜひ教えてください！</p><br/>
+                        </div>
+                        <a href="https://www.amazon.co.jp/hz/wishlist/ls/1WZSCAPPA8Z5W/ref=cm_go_nav_hz" target="_blank" rel="noreferrer">
+                            <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
+                        </a>
+                        <a href="https://www.amazon.co.jp/hz/wishlist/ls/1WZSCAPPA8Z5W/ref=cm_go_nav_hz" target="_blank" rel="noreferrer">
+                            <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
+                        </a>
+                        <div>
                             <p className="april-fool">エープリルフールのジョークページだよ！</p><br/><br/>
                         </div>
                     </div>
