@@ -13,9 +13,12 @@ function App() {
         title={'コスプレイヤー暴露まとめ'}
         meta={[
           { name: 'twitter:card', content: 'summary' },
+          { name: 'twitter:site', content: `@UshinohiProject` },
+          { property: 'og:type', content: 'article' },
           { property: 'og:image', content: 'http://drive.google.com/uc?export=view&id=1mBX7h1u5S3lWW6yc2qgMaqKexDywzIYB' },
-          { property: 'og:title', content: 'コスプレイヤー暴露まとめ' },
-          { property: 'og:description', content: '自称美少女レイヤーの雪丸かるるがヤバいw 高額月収・彼氏画像も！' },
+          { property: 'og:site_name', content: 'コスプレイヤー暴露まとめ' },
+          { property: 'og:title', content: '自称美少女レイヤーの雪丸かるるがヤバいw 高額月収・彼氏画像も！' },
+          { property: 'og:description', content: 'こんにちは！コスプレイヤー暴露まとめ案内人です！ 最近、よくTwitterやYouTubeで見かけることが増えてきた 雪丸かるる！！' },
           { property: 'og:url', content: `https://kalulu.fans/Matome` }
         ]}
       />
