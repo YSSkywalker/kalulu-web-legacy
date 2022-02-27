@@ -1,5 +1,6 @@
 import React from 'react';
 import './News.css';
+import { Helmet } from "react-helmet";
 
 import TwitterIcon from './img/twitter_icon_circle_blue.png';
 import LineIcon from './img/line_icon_circle_green.png';
@@ -8,6 +9,19 @@ class News extends React.Component {
     render() {
         return (
             <div className='news'>
+                <Helmet
+                  title={'雪丸かるる氏 自撮り画像を違法に加工か|AFJニュース'}
+                  meta={[
+                    { name: 'twitter:card', content: 'summary' },
+                    { name: 'twitter:site', content: '@kalulu_nya' },
+                    { property: 'og:type', content: 'article' },
+                    { property: 'og:image', content: 'https://drive.google.com/uc?export=view&id=1ynl1_qBTPnLUUfmPQPgughjZK7-OW2le' },
+                    { property: 'og:site_name', content: 'AFJニュース' },
+                    { property: 'og:title', content: '【速報】雪丸かるる氏 自撮り画像を違法に加工か' },
+                    { property: 'og:description', content: '日本自撮画像重加工規制委員会は4月1日、自称コスプレイヤーの雪丸かるる氏が同日未明にSNSへ投稿した自身の自撮り画像について、「自撮画像重加工取締法第四条に抵触しているおそれがある」' },
+                    { property: 'og:url', content: `https://kalulu.fans/News` }
+                  ]}
+                />
                 <div className='dummy-header-top'>
                     <div className='dummy-header-title'>
                         <a href='/News' className='news-logo'>AFJ<span>通信</span></a>
@@ -47,7 +61,7 @@ class News extends React.Component {
                                 <br/>
                                 雪丸氏は同日、AFJ通信が独自に行なったインタビューに対し、「加工は私にとって死活問題で、今回の決定は到底受け入れることができない。そもそも投稿した画像は自撮画像重加工取締法で定められた範囲内での加工しか行なっておらず、指摘にはあたらない」として、是正勧告に応じない姿勢を明らかにした。<br/>
                                 <br/>
-                                自撮画像重加工取締法第四条では第1項で「コスプレイヤーがSNSやこれに準ずる公共の場に自撮り画像を投稿する際の加工は、原作キャラクターや役職者、その他のモデルとする人物等に限りなく近づきたいという高尚かつ純然たる目的で行うものとする。」と定められており、第2項では「いやしくも第1項に定める範囲を明らかに逸脱した目的で自撮り画像の加工を行なったと認められる場合は、これを速やかに正さなければならい。」としている。
+                                自撮画像重加工取締法第四条では第1項で「コスプレイヤーがSNSやこれに準ずる公共の場に自撮り画像を投稿する際の加工は、原作キャラクターや役職者、その他のモデルとする人物等に限りなく近づきたいという高尚かつ純然たる目的で行うものとする。」と定められており、第2項では「いやしくも第1項に定める範囲を明らかに逸脱した目的で自撮り画像の加工を行なったと認められる場合は、コスプレイヤーはこれを速やかに正さなければならい。」としている。
                             </p>
                             <p className='news-author'>【執筆: AFJ (April Fool Joke)】</p>
                         </div>
