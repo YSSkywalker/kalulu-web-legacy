@@ -69,7 +69,7 @@ class News extends React.Component {
                             <a href={'http://twitter.com/share?url=https://kalulu.fans/News&text=【速報】雪丸かるる氏 自撮り画像を違法に加工か+%7C+最新ニュース&via=kalulu_nya&related=kalulu_nya&hashtags=エイプリルフール'} target="_blank" rel="noopener noreferrer">
                                 <img className="share-sns" src={TwitterIcon} alt="share with Twitter"></img>
                             </a>
-                            <a href={'https://line.me/R/msg/text/?【速報】雪丸かるる氏 自撮り画像を違法に加工か+%7C+最新ニュース'} target="_blank" rel="noopener noreferrer">
+                            <a href={'https://line.me/R/msg/text/?【速報】雪丸かるる氏 自撮り画像を違法に加工か %7C 最新ニュース https://kalulu.fans/News'} target="_blank" rel="noopener noreferrer">
                                 <img className="share-sns" src={LineIcon} alt="send with LINE"></img>
                             </a>
                             {/* <a href={'https://line.me/R/share?text=【速報】雪丸かるる氏 自撮り画像を違法に加工か+%7C+最新ニュースkalulu.fans/News'} target="_blank" rel="noopener noreferrer">
