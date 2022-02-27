@@ -1,0 +1,6 @@
+.top-message{
+    height: calc(100vh - 70px - 20px);
+}
+.top-title {
+    margin-top: 20px;
+}

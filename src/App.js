@@ -4,6 +4,7 @@ import './App.css';
 
 import ScrollToTop from './components/molecules/ScrollToTop'
 // import Header from './components/molecules/Header'
+import Top from './components/molecules/Top'
 import Matome from './components/molecules/Matome'
 import Footer from './components/molecules/Footer'
 import News from './components/molecules/News'
@@ -14,7 +15,7 @@ function App() {
     <div className="App">
     <Router>
       <ScrollToTop />
-      <Route exact path='/' component={News}/>
+      <Route exact path='/' component={Top}/>
       <Route path='/Matome' component={Matome}/>
       <Route path='/News' component={News}/>
       <Footer />
