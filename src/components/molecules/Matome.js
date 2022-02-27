@@ -20,8 +20,8 @@ class Matome extends React.Component {
                     { property: 'og:type', content: 'article' },
                     { property: 'og:image', content: 'http://drive.google.com/uc?export=view&id=1mBX7h1u5S3lWW6yc2qgMaqKexDywzIYB' },
                     { property: 'og:site_name', content: 'コスプレイヤー暴露まとめ' },
-                    { property: 'og:title', content: '自称美少女レイヤーの雪丸かるるがヤバいw 高額月収・彼氏画像も！' },
-                    { property: 'og:description', content: 'こんにちは！コスプレイヤー暴露まとめ案内人です！ 最近、よくTwitterやYouTubeで見かけることが増えてきた 雪丸かるる！！' },
+                    { property: 'og:title', content: '自称美少女レイヤーの雪丸かるるがヤバいw 高額月収・彼氏画像も!' },
+                    { property: 'og:description', content: 'こんにちは!コスプレイヤー暴露まとめ案内人です! 最近、よくTwitterやYouTubeで見かけることが増えてきた 雪丸かるる！！' },
                     { property: 'og:url', content: `https://kalulu.fans/Matome` }
                   ]}
                 />
@@ -31,7 +31,7 @@ class Matome extends React.Component {
                 <div className="main-content">
                     <div>
                         <div className="main-title">
-                            <h3>自称美少女レイヤーの雪丸かるるがヤバいw<br/>高額月収・彼氏画像も！</h3>
+                            <h3>自称美少女レイヤーの雪丸かるるがヤバいw<br/>高額月収・彼氏画像も!</h3>
                         </div>
                         <p className="renewed">2021年04月01日 更新</p>
                         {/* ここからSNSボタン */}
@@ -44,12 +44,12 @@ class Matome extends React.Component {
                         </center>
                         {/* ここまでSNSボタン */}
                         <div>
-                            <p>こんにちは！コスプレイヤー暴露まとめ案内人です！</p><br/>
+                            <p>こんにちは!コスプレイヤー暴露まとめ案内人です!</p><br/>
                             <p>最近、よくTwitterやYouTubeで見かけることが増えてきた</p>
-                            <p>雪丸かるる！！</p><br/>
+                            <p>雪丸かるる!</p><br/>
                             <p>美少女レイヤーを自称してYouTubeでも活躍を続け、彼氏も高スペックというウワサもよく耳にしますよね。</p>
                             <p>最近ではLINE IDが流出して炎上したとも言われています。</p><br/>
-                            <p>そこで今回は雪丸かるるの経歴・月収や、高スペック彼氏を調べてみました！</p>
+                            <p>そこで今回は雪丸かるるの経歴・月収や、高スペック彼氏を調べてみました!</p>
                         </div>
                     </div>
                     <div className="matome-index-box">
@@ -121,14 +121,14 @@ class Matome extends React.Component {
                         </div>
                         <div>
                             <p><s>雪丸かるるはYouTube活動もしているので、</s></p>
-                            <p><s>きっと高額な広告収入がありそうです！</s></p>
+                            <p><s>きっと高額な広告収入がありそうです!</s></p>
                             <p>(※追加調査の結果、YouTubeチャンネル「雪丸かるる」は</p>
                             <p>収益化要項を満たしていなようです。)</p>
                             <p>以下の動画で「普段は働いている」と言っているので、</p>
                             <p>普通のサラリーマンくらいの月収はあるかもしれません。</p>
-                            <p>今後の活躍に期待ですね！</p>
+                            <p>今後の活躍に期待ですね!</p>
                         </div>
-                        <iframe className="youtube-frame" src="https://www.youtube.com/embed/mbx6BVjqDzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe className="youtube-frame-matome" src="https://www.youtube.com/embed/mbx6BVjqDzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div>
                         <div className="matome-sub-title-box">
@@ -144,7 +144,7 @@ class Matome extends React.Component {
                             <p>これだけ可愛かったら彼氏はいそうなので、</p>
                             <p>彼氏の存在を隠しているのかもしれません。</p><br/>
                             <p>【※追記 (2021年04月01日)】</p>
-                            <p>雪丸かるるには彼氏がいました！</p>
+                            <p>雪丸かるるには彼氏がいました!</p>
                         </div>
                         <div className="tweet-media-embed">
                             <TwitterTweetEmbed
@@ -172,9 +172,9 @@ class Matome extends React.Component {
                         </div>
                         <div>
                             <p>雪丸かるるは公式LINEアカウントを持っているようです。</p>
-                            <p>ともだち追加して話しかけてみました！</p>
+                            <p>ともだち追加して話しかけてみました!</p>
                             <img src="http://drive.google.com/uc?export=view&id=1gGO5Qka0z9HaUF57ltPnli-3fnwgcjl9"  alt="LINEのスクリーンショット" className="iphone-ss"></img>
-                            <p>なんと個別に返信してくれるようです！</p>
+                            <p>なんと個別に返信してくれるようです!</p>
                             <p>雪丸かるると個人的に話せるのは非常に魅力的ですね。</p>
                         </div>
                     </div>
@@ -185,7 +185,7 @@ class Matome extends React.Component {
                         <div className="matome-sub-title-box">
                             <p className="matome-sub-title">特技は？</p>
                         </div>
-                        <iframe className="youtube-frame" src="https://www.youtube.com/embed/vN-vUEWH2Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe className="youtube-frame-matome" src="https://www.youtube.com/embed/vN-vUEWH2Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <div>
                             <p>雪丸かるるは2021年の抱負を語るYouTubeで</p>
                             <p>逆立ちをしながら書初めをしていたので、</p>
@@ -197,7 +197,7 @@ class Matome extends React.Component {
                             />
                         </div>
                         <div>
-                            <p>さらに、「スティッチのものまね」も特技のようです！</p>
+                            <p>さらに、「スティッチのものまね」も特技のようです!</p>
                             <p>今後YouTubeなどで披露してくれるかもしれません。</p>
                         </div>
                     </div>
@@ -208,10 +208,10 @@ class Matome extends React.Component {
                         <div>
                             <p>いかがでしたか？</p>
                             <p>今後大人気になること間違いなしのコスプレイヤー</p>
-                            <p>「雪丸かるる」についてまとめてみました！</p>
+                            <p>「雪丸かるる」についてまとめてみました!</p>
                             <p>調べる過程でいろんなことを知ることができて、</p>
                             <p>雪丸かるるのことがさらに好きになりました。</p>
-                            <p>みなさんが知っていることがあればぜひ教えてください！</p><br/>
+                            <p>みなさんが知っていることがあればぜひ教えてください!</p><br/>
                         </div>
                         <a href="https://www.amazon.co.jp/hz/wishlist/ls/1WZSCAPPA8Z5W/ref=cm_go_nav_hz" target="_blank" rel="noreferrer">
                             <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
@@ -220,7 +220,7 @@ class Matome extends React.Component {
                             <img src="http://drive.google.com/uc?export=view&id=1LkJNT9EXPOMD5pyiyx7touKnWSoXORbi" alt="いくらの広告" className="ad-ikura"></img>
                         </a>
                         <div>
-                            <p className="april-fool">エープリルフールのジョークページだよ！</p><br/><br/>
+                            <p className="april-fool">エープリルフールのジョークページだよ!</p><br/><br/>
                         </div>
                     </div>
 

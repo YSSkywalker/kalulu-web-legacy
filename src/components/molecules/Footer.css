@@ -2,3 +2,8 @@ footer{
     color: #2c2c2f;
     text-align: center;
 }
+.footer-link {
+    color: #2c2c2f;
+    text-decoration: none;
+    cursor: pointer;
+}
