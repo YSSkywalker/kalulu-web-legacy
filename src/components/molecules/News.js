@@ -101,7 +101,7 @@ class News extends React.Component {
                                                 <dt className='news-dt'>
                                                     <i className='news-i'>2</i>
                                                 </dt>
-                                                <dd className='news-dd'>新レンズ購入時に条件付き特別補助金で支援 新法案成立の見通し</dd>
+                                                <dd className='news-dd'>カメラレンズ新規購入時に条件付き特別補助金で支援 新法案成立の見通し</dd>
                                             </dl>
                                         </a>
                                     </li>
