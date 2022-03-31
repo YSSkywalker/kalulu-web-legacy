@@ -50,7 +50,7 @@ class News extends React.Component {
                 </div>
                 <div className='news-contents'>
                     <div className='news-main'>
-                        <iframe className="youtube-frame" src="https://www.youtube.com/embed/mbx6BVjqDzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe className="youtube-frame" src="https://www.youtube.com/embed/Iwf69fg46-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <h1 className='news-title'>雪丸かるる氏 自撮り画像を違法に加工か</h1>
                         <p className='news-detail'>
                             <time className='time-news' dateTime='2022-04-01T11:35:30'>2022年4月1日 11時35分</time>
@@ -61,7 +61,9 @@ class News extends React.Component {
                                 <br/>
                                 雪丸氏は同日、AFJ通信が独自に行なったインタビューに対し、「加工は私にとって死活問題で、今回の決定は到底受け入れることができない。そもそも投稿した画像は自撮画像重加工取締法で定められた範囲内での加工しか行なっておらず、指摘にはあたらない」として、是正勧告に応じない姿勢を明らかにした。<br/>
                                 <br/>
-                                自撮画像重加工取締法第四条では第1項で「コスプレイヤーがSNSやこれに準ずる公共の場に自撮り画像を投稿する際の加工は、原作キャラクターや役職者、その他のモデルとする人物等に限りなく近づきたいという高尚かつ純然たる目的で行うものとする。」と定められており、第2項では「いやしくも第1項に定める範囲を明らかに逸脱した目的で自撮り画像の加工を行なったと認められる場合は、コスプレイヤーはこれを速やかに正さなければならい。」としている。
+                                雪丸氏は「是正勧告を受けた自撮画像の加工は理想のメイドさんに近づくための加工であり、同法第1項で認められているものだ。自分の推しや好きなキャラクターなど、理想の姿に近づくための加工をこのように規制することがあってはならず、憲法で定められた表現の自由を侵害する重大な懸念で、誠に遺憾」とし、法的措置も辞さない姿勢を示した。<br/>
+                                <br/>
+                                自撮画像重加工取締法第四条では第1項で「コスプレイヤーがSNSやこれに準ずる公共の場に自撮り画像を投稿する際の加工は、原作キャラクターや役職者、その他のモデルとする人物等に限りなく近づきたいという高尚かつ純然たる目的で行うものとする。」と定められており、第2項では「いやしくも第1項に定める範囲を明らかに逸脱した目的で自撮り画像の加工を行なったと認められる場合は、コスプレイヤーはこれを速やかに正さなければならない。」としている。
                             </p>
                             <p className='news-author'>【執筆: AFJ (April Fool Joke)】</p>
                         </div>
@@ -171,7 +173,7 @@ class News extends React.Component {
                                                 <dt className='news-dt'>
                                                     <i className='news-i'>9</i>
                                                 </dt>
-                                                <dd className='news-dd'>AFJ世論調査 政権支持率急回復 ドタキャン厳罰化への理解広まる</dd>
+                                                <dd className='news-dd'>AFJ世論調査 政権支持率急回復 併せ撮影ドタキャン厳罰化への理解広まる</dd>
                                             </dl>
                                         </a>
                                     </li>
